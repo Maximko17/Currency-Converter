@@ -1,0 +1,55 @@
+.wrapper-history {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  padding: 50px 0 !important;
+}
+.history h1 {
+  text-align: center;
+}
+.history h1 {
+  text-align: center;
+}
+.history .filters {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.history .filters input {
+  width: 150px;
+  padding: 2px;
+}
+.history .filters span {
+  margin: 0 5px;
+}
+.history .filters select {
+  width: 150px;
+  padding: 5px;
+}
+.history .filters button {
+  padding: 8px 25px;
+  background: #08a94d;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.history table {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+.history table th {
+  padding: 10px;
+  background: lightgray;
+  border: 1px solid grey;
+}
+.history table tr {
+  text-align: center;
+  border-bottom: 1px solid grey;
+}
+.history table tbody td {
+  padding: 10px;
+  border-right: 1px solid grey;
+}
